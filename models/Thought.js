@@ -44,7 +44,7 @@ const ThoughtSchema = new Schema({
         virtals: true,  
         getters: true
       },
-      //id: false
+      id: false
 });
 
 ThoughtSchema.virtual('reactionCount').get(function() {
