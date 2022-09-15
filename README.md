@@ -25,6 +25,11 @@ To get started using this Social Network API...
 2. Routes may then be tested using a third party application such as insomnia.
 
 
+
+https://user-images.githubusercontent.com/103510105/190307072-3f222da4-bca4-4584-876f-0bada0a4b478.mp4
+
+
+
 ## License
 This project is not licensed.
 
